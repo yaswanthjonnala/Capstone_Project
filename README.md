@@ -105,7 +105,7 @@ Build a complete, automated analytics pipeline that:
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 | Layer            | Technology                 | Purpose                              |
 | ---------------- | -------------------------- | ------------------------------------ |
@@ -375,7 +375,7 @@ airflow dags trigger Education_ETL_Production
 
 ---
 
-## ✅ Conclusion
+### ✅ Conclusion
 
 This project delivers a **production-style education analytics platform** using a Bronze–Silver–Gold architecture, Databricks, Apache Airflow, and Power BI. It demonstrates end-to-end data ingestion, validation, orchestration, and visualization, transforming raw education data into reliable, decision-ready insights. The solution reflects real-world data engineering practices and supports scalable, automated analytics for education planning and performance monitoring.
 
@@ -400,6 +400,7 @@ This project is licensed under the **MIT License**.
 * Databricks Community Edition
 * Apache Spark & Apache Airflow communities
 * Microsoft Power BI
+
 
 
 
