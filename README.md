@@ -16,7 +16,6 @@ Built using **Python, Pandas/PySpark, Databricks, Apache Airflow, and Power BI**
 * [Data Pipeline Details](#-data-pipeline-details)
 * [Dashboards](#-dashboards)
 * [Performance Metrics](#-performance-metrics)
-* [Code Examples](#-code-examples)
 * [Troubleshooting](#-troubleshooting)
 * [Future Enhancements](#-future-enhancements)
 * [Conclusion](#conclusion)
@@ -400,6 +399,7 @@ This project is licensed under the **MIT License**.
 * Databricks Community Edition
 * Apache Spark & Apache Airflow communities
 * Microsoft Power BI
+
 
 
 
