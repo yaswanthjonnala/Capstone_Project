@@ -1,0 +1,121 @@
+school_id,school_name,region,district,school_type,capacity
+SCH_0001,Government School 1,SOUTH ,District_B,Private,1174
+SCH_0002,Government School 2,north,District_B,Govt,1152
+SCH_0003,Government School 3,Central,District_B,Govt,505
+SCH_0004,Government School 4,north,District_D,Government,837
+SCH_0005,Government School 5,north,District_B,Private,993
+SCH_0006,Government School 6,north,District_A,Govt,1130
+SCH_0007,Government School 7,west,District_D,Private,748
+SCH_0008,Government School 8,Central,District_C,Private,700
+SCH_0009,Government School 9,EAST,District_C,Private,1165
+SCH_0010,Government School 10,SOUTH ,District_C,Govt,898
+SCH_0011,Government School 11,EAST,District_A,Government,1163
+SCH_0012,Government School 12,north,District_A,Govt,897
+SCH_0013,Government School 13,Central,District_B,Government,770
+SCH_0014,Government School 14,CENTRAL,District_B,Private,550
+SCH_0015,Government School 15,CENTRAL,District_B,Private,653
+SCH_0016,Government School 16,SOUTH ,District_A,Private,1047
+SCH_0017,Government School 17,CENTRAL,District_A,Govt,698
+SCH_0018,Government School 18,EAST,District_D,Govt,943
+SCH_0019,Government School 19,north,District_B,Private,1006
+SCH_0020,Government School 20,Central,District_B,Govt,1182
+SCH_0021,Government School 21,Central,District_B,Private,1088
+SCH_0022,Government School 22,west,District_A,Private,1023
+SCH_0023,Government School 23,Central,District_D,Government,628
+SCH_0024,Government School 24,Central,District_C,Private,791
+SCH_0025,Government School 25,north,District_B,Private,750
+SCH_0026,Government School 26,SOUTH ,District_A,Private,872
+SCH_0027,Government School 27,CENTRAL,District_A,Government,621
+SCH_0028,Government School 28,CENTRAL,District_A,Govt,873
+SCH_0029,Government School 29,EAST,District_C,Private,480
+SCH_0030,Government School 30,EAST,District_B,Govt,631
+SCH_0031,Government School 31,north,District_A,Private,1052
+SCH_0032,Government School 32,Central,District_A,Govt,680
+SCH_0033,Government School 33,EAST,District_C,Government,682
+SCH_0034,Government School 34,north,District_C,Govt,1107
+SCH_0035,Government School 35,CENTRAL,District_B,Private,448
+SCH_0036,Government School 36,CENTRAL,District_C,Govt,1069
+SCH_0037,Government School 37,north,District_B,Govt,1147
+SCH_0038,Government School 38,EAST,District_A,Private,1113
+SCH_0039,Government School 39,west,District_C,Government,1050
+SCH_0040,Government School 40,north,District_C,Private,657
+SCH_0041,Government School 41,north,District_A,Govt,801
+SCH_0042,Government School 42,west,District_B,Govt,1164
+SCH_0043,Government School 43,SOUTH ,District_B,Govt,889
+SCH_0044,Government School 44,Central,District_A,Government,1004
+SCH_0045,Government School 45,north,District_D,Govt,617
+SCH_0046,Government School 46,EAST,District_B,Private,645
+SCH_0047,Government School 47,Central,District_D,Govt,694
+SCH_0048,Government School 48,EAST,District_A,Private,1018
+SCH_0049,Government School 49,Central,District_A,Private,813
+SCH_0050,Government School 50,SOUTH ,District_B,Government,688
+SCH_0051,Government School 51,north,District_D,Private,590
+SCH_0052,Government School 52,CENTRAL,District_C,Govt,522
+SCH_0053,Government School 53,north,District_A,Private,791
+SCH_0054,Government School 54,CENTRAL,District_C,Government,577
+SCH_0055,Government School 55,CENTRAL,District_B,Private,784
+SCH_0056,Government School 56,west,District_D,Government,588
+SCH_0057,Government School 57,SOUTH ,District_D,Govt,486
+SCH_0058,Government School 58,west,District_D,Government,984
+SCH_0059,Government School 59,Central,District_C,Government,948
+SCH_0060,Government School 60,Central,District_B,Government,474
+SCH_0061,Government School 61,Central,District_A,Private,1161
+SCH_0062,Government School 62,SOUTH ,District_A,Private,943
+SCH_0063,Government School 63,north,District_D,Government,813
+SCH_0064,Government School 64,EAST,District_C,Government,938
+SCH_0065,Government School 65,EAST,District_C,Govt,411
+SCH_0066,Government School 66,EAST,District_C,Government,725
+SCH_0067,Government School 67,north,District_D,Private,459
+SCH_0068,Government School 68,north,District_A,Government,1174
+SCH_0069,Government School 69,SOUTH ,District_D,Private,1103
+SCH_0070,Government School 70,CENTRAL,District_B,Private,499
+SCH_0071,Government School 71,EAST,District_C,Government,1063
+SCH_0072,Government School 72,SOUTH ,District_C,Govt,894
+SCH_0073,Government School 73,SOUTH ,District_C,Private,759
+SCH_0074,Government School 74,north,District_C,Private,889
+SCH_0075,Government School 75,EAST,District_C,Private,959
+SCH_0076,Government School 76,EAST,District_D,Private,567
+SCH_0077,Government School 77,north,District_C,Govt,543
+SCH_0078,Government School 78,SOUTH ,District_A,Govt,1050
+SCH_0079,Government School 79,west,District_B,Govt,996
+SCH_0080,Government School 80,north,District_A,Govt,1112
+SCH_0081,Government School 81,SOUTH ,District_B,Private,1133
+SCH_0082,Government School 82,Central,District_B,Private,802
+SCH_0083,Government School 83,CENTRAL,District_C,Govt,917
+SCH_0084,Government School 84,west,District_C,Government,1095
+SCH_0085,Government School 85,EAST,District_C,Govt,1122
+SCH_0086,Government School 86,CENTRAL,District_C,Private,1048
+SCH_0087,Government School 87,north,District_B,Government,734
+SCH_0088,Government School 88,Central,District_A,Govt,739
+SCH_0089,Government School 89,EAST,District_D,Government,883
+SCH_0090,Government School 90,EAST,District_C,Private,407
+SCH_0091,Government School 91,north,District_B,Private,1157
+SCH_0092,Government School 92,SOUTH ,District_D,Private,1066
+SCH_0093,Government School 93,west,District_D,Govt,636
+SCH_0094,Government School 94,SOUTH ,District_D,Private,874
+SCH_0095,Government School 95,north,District_C,Private,956
+SCH_0096,Government School 96,west,District_D,Government,736
+SCH_0097,Government School 97,SOUTH ,District_D,Govt,944
+SCH_0098,Government School 98,west,District_A,Private,869
+SCH_0099,Government School 99,SOUTH ,District_C,Govt,592
+SCH_0100,Government School 100,west,District_B,Government,689
+SCH_0101,Government School 101,SOUTH ,District_A,Private,612
+SCH_0102,Government School 102,north,District_D,Private,767
+SCH_0103,Government School 103,EAST,District_B,Government,914
+SCH_0104,Government School 104,EAST,District_C,Private,606
+SCH_0105,Government School 105,CENTRAL,District_B,Government,1119
+SCH_0106,Government School 106,SOUTH ,District_A,Govt,849
+SCH_0107,Government School 107,SOUTH ,District_B,Private,763
+SCH_0108,Government School 108,west,District_B,Govt,787
+SCH_0109,Government School 109,SOUTH ,District_D,Govt,959
+SCH_0110,Government School 110,SOUTH ,District_C,Government,656
+SCH_0111,Government School 111,SOUTH ,District_D,Govt,880
+SCH_0112,Government School 112,SOUTH ,District_C,Private,487
+SCH_0113,Government School 113,SOUTH ,District_D,Government,424
+SCH_0114,Government School 114,west,District_A,Govt,886
+SCH_0115,Government School 115,west,District_D,Government,1019
+SCH_0116,Government School 116,CENTRAL,District_D,Private,853
+SCH_0117,Government School 117,CENTRAL,District_A,Government,997
+SCH_0118,Government School 118,CENTRAL,District_B,Government,579
+SCH_0119,Government School 119,Central,District_D,Private,725
+SCH_0120,Government School 120,CENTRAL,District_C,Govt,464
